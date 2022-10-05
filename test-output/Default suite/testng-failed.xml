@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="SpringTest.SpringProjectTestClass">
+        <methods>
+          <include name="AddNameAndAge"/>
+          <include name="AddNamaAndAddress"/>
+          <include name="AddAllCredentials"/>
+          <include name="Employeesalary"/>
+          <include name="saticMembers"/>
+          <include name="AddAgeAndAddress"/>
+          <include name="AddNameAndSalary"/>
+          <include name="AddEmployeeName"/>
+          <include name="EmployeeAge"/>
+          <include name="EmployeeAddress"/>
+        </methods>
+      </class> <!-- SpringTest.SpringProjectTestClass -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

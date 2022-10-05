@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-05T16:30:54Z" name="Default suite" finished-at="2022-10-05T16:32:32Z" duration-ms="98168">
+    <groups>
+    </groups>
+    <test started-at="2022-10-05T16:30:54Z" name="Default test" finished-at="2022-10-05T16:32:32Z" duration-ms="98168">
+      <class name="SpringTest.SpringProjectTestClass">
+        <test-method is-config="true" signature="saticMembers()[pri:0, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:30:54Z" name="saticMembers" finished-at="2022-10-05T16:30:57Z" duration-ms="2489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saticMembers -->
+        <test-method signature="AddEmployeeName()[pri:0, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:30:57Z" name="AddEmployeeName" finished-at="2022-10-05T16:31:07Z" duration-ms="10300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeName -->
+        <test-method signature="EmployeeAge()[pri:1, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:31:07Z" name="EmployeeAge" finished-at="2022-10-05T16:31:16Z" duration-ms="8526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeAge -->
+        <test-method signature="Employeesalary()[pri:2, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:31:16Z" name="Employeesalary" finished-at="2022-10-05T16:31:29Z" duration-ms="13421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employeesalary -->
+        <test-method signature="EmployeeAddress()[pri:3, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:31:29Z" name="EmployeeAddress" finished-at="2022-10-05T16:31:42Z" duration-ms="12599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeAddress -->
+        <test-method signature="AddNameAndAge()[pri:4, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:31:42Z" name="AddNameAndAge" finished-at="2022-10-05T16:31:51Z" duration-ms="9475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNameAndAge -->
+        <test-method signature="AddNameAndSalary()[pri:5, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:31:51Z" name="AddNameAndSalary" finished-at="2022-10-05T16:32:04Z" duration-ms="12518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNameAndSalary -->
+        <test-method signature="AddAgeAndAddress()[pri:6, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:32:04Z" name="AddAgeAndAddress" finished-at="2022-10-05T16:32:13Z" duration-ms="9415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAgeAndAddress -->
+        <test-method signature="AddNamaAndAddress()[pri:7, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:32:13Z" name="AddNamaAndAddress" finished-at="2022-10-05T16:32:23Z" duration-ms="9630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNamaAndAddress -->
+        <test-method signature="AddAllCredentials()[pri:8, instance:SpringTest.SpringProjectTestClass@48793bef]" started-at="2022-10-05T16:32:23Z" name="AddAllCredentials" finished-at="2022-10-05T16:32:32Z" duration-ms="9755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllCredentials -->
+      </class> <!-- SpringTest.SpringProjectTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
